@@ -2,7 +2,7 @@
 
 <h3 align="center">A developer from Brazil</h3>
 
-<p align="center"> - 🌱 Learning programming as Full-Stack, both for Web and Mobile.</p>]
+<p align="center"> - 🌱 Learning programming as Full-Stack, both for Web and Mobile.</p>
 
 <h3 align="center">Connect with me:</h3>
 
