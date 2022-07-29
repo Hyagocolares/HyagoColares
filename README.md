@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Hyago Colares</h1>
-For more information [readme.md](https://github.com/Hyagocolares/Hyagocolares/blob/main/READMEI.md) read in English.
+For more information [link text](https://github.com/Hyagocolares/Hyagocolares/blob/main/READMEI.md) read in English.
 
 <h3 align="center">Um desenvolvedor do Brasil</h3>
 
