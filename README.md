@@ -3,7 +3,7 @@ For more visit <a href="https://github.com/Hyagocolares/Hyagocolares/blob/main/R
 
 <h3 align="center">Um desenvolvedor do Brasil</h3>
 
-<p align="center"> - 🌱 Aprendendo programação como Full-Stack, tanto para Web como para Mobile.</p>
+<p align="center"> 👨🏿‍💻  Aprendendo programação como Full-Stack, tanto para Web como para Mobile. 💻 </p>
 
 <h3 align="center">Conecte-se comigo:</h3>
 
