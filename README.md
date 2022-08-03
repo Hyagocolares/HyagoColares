@@ -55,6 +55,10 @@ For more visit <a href="https://github.com/Hyagocolares/Hyagocolares/blob/main/R
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hyagocolares&theme=algolia&show_icons=true&locale=en" alt="Hyago-Colares" /></p>
 
 ##
+  
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Hyagocolaresn=3&margin-w=15&margin-h=15&theme=algolia"/></p>
+  
+##
 
 ![Snake animation](https://github.com/igonc/igonc/blob/main/github-contribution-grid-snake.svg)
 
