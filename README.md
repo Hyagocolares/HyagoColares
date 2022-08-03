@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Hyago Colares</h1>
 For more visit <a href="https://github.com/Hyagocolares/Hyagocolares/blob/main/READMEI.md">READMEI.md</a>, read in English.
 
-<h3 align="center">Um desenvolvedor do Brasil 🇧🇷</h3>
+<h3 align="center">Um desenvolvedor Brasileiro 🇧🇷</h3>
 
 <p align="center"> 👨🏿‍💻  Aprendendo programação como Full-Stack, tanto para Web como para Mobile. 💻 </p>
 
