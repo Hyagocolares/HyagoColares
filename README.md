@@ -30,13 +30,15 @@ For more visit <a href="https://github.com/Hyagocolares/Hyagocolares/blob/main/R
   
   <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
+  <img align="center" alt="TS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
   <img align="center" alt="C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   
   <img align="center" alt="React" height="40" width="40" src="https://logospng.org/download/react/logo-react-1024.png">
   
-  <img align="center" alt="PHP" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="PHP" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   
   <img align="center" alt="Git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   
@@ -44,7 +46,7 @@ For more visit <a href="https://github.com/Hyagocolares/Hyagocolares/blob/main/R
   
   <img align="center" alt="Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   
-  <img align="center" alt="Kotlin" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Kotlin" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
 
 ##
 
