@@ -32,6 +32,8 @@ For more visit <a href="https://github.com/Hyagocolares/Hyagocolares/blob/main/R
   
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
+  <img align="center" alt="C++" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c++/c++-original.svg">
+  
   <img align="center" alt="React" height="40" width="40" src="https://logospng.org/download/react/logo-react-1024.png">
   
   <img align="center" alt="PHP" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
