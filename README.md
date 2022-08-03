@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou Hyago Colares</h1>
+<h1 align="leftr">Oi 👋, eu sou Hyago Colares</h1>
 For more visit <a href="https://github.com/Hyagocolares/Hyagocolares/blob/main/READMEI.md">READMEI.md</a>, read in English.
 
 ##
