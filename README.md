@@ -56,7 +56,7 @@ For more visit <a href="https://github.com/Hyagocolares/Hyagocolares/blob/main/R
 
 ##
   
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Hyagocolaresn=3&margin-w=15&margin-h=15&theme=algolia"/></p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Hyagocolares&&column=3&margin-w=15&margin-h=15&theme=algolia"/></p>
   
 ##
 
