@@ -12,3 +12,5 @@ For more visit <a href="https://github.com/Hyagocolares/Hyagocolares/blob/main/R
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hyagocolares&show_icons=true&locale=en&layout=compact" alt="Hyagocolares" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hyagocolares&show_icons=true&locale=en" alt="Hyago-Colares" /></p>
