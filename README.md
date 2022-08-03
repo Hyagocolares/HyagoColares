@@ -13,10 +13,10 @@ For more visit <a href="https://github.com/Hyagocolares/Hyagocolares/blob/main/R
 
 <h3 align="center">🔗 Conecte-se comigo:</h3>
 
-##
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hyago-colares/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hyago Colares" alt="Hyago-Colares" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hyago-colares/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hyago Colares" alt="Hyago-Colares" height="30" width="40" /></a>
 </p>
 
 ##
