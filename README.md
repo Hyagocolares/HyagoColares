@@ -13,11 +13,15 @@ For more visit <a href="https://github.com/Hyagocolares/Hyagocolares/blob/main/R
 
 <h3 align="center">🔗 Conecte-se comigo:</h3>
 
-
 <p align="center">
 <a href="https://www.linkedin.com/in/hyago-colares/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hyago Colares" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hyago_colares/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hyago Colares" height="30" width="40" /></a>
 </p>
+
+##
+
+<h3 align="left">Languages and Tools:</h3>
+
 
 ##
 
@@ -31,3 +35,4 @@ For more visit <a href="https://github.com/Hyagocolares/Hyagocolares/blob/main/R
 
 ![Snake animation](https://github.com/igonc/igonc/blob/main/github-contribution-grid-snake.svg)
 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
