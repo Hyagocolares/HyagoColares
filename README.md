@@ -6,7 +6,7 @@ For more visit <a href="https://github.com/Hyagocolares/Hyagocolares/blob/main/R
 <h3 align="center">Um desenvolvedor Brasileiro 🇧🇷</h3>
 
 ##
-
+<p align="center"> 🎓 Cursando Sistemas d Informação - UFRA 💻 </p>
 <p align="center"> 👨🏿‍💻  Aprendendo programação como Full-Stack, tanto para Web como para Mobile. 💻 </p>
 
 ##
@@ -35,6 +35,8 @@ For more visit <a href="https://github.com/Hyagocolares/Hyagocolares/blob/main/R
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
   <img align="center" alt="C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  
+  <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
   
   <img align="center" alt="React" height="40" width="40" src="https://logospng.org/download/react/logo-react-1024.png">
   
