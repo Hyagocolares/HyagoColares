@@ -7,7 +7,7 @@ For more visit <a href="https://github.com/Hyagocolares/Hyagocolares/blob/main/R
 
 ##
 <p align="center"> 🎓 Cursando Sistemas d Informação - UFRA 💻 </p>
-<p align="center"> 👨🏿‍💻  Aprendendo programação como Full-Stack, tanto para Web como para Mobile. 💻 </p>
+<p align="center"> 👨🏿‍💻  Aprendendo programação como desenvolvedor Full-Stack, tanto para Web como para Mobile. 💻 </p>
 
 ##
 
